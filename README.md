@@ -9,3 +9,5 @@ Hay 2 criterios de optimalidad mutuamente excluyentes:
     >    Número de vuelos mínimo (para pasajeros prósperos a los que no le gusta cambiar mucho de avión).					
 					
 El monto a pagar por volar en sentido contrario es el mismo.
+
+Estudiantes: Gabriela Banezca, Pedro Barrios
