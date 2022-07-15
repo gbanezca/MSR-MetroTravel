@@ -11,4 +11,5 @@ Hay 2 criterios de optimalidad mutuamente excluyentes:
 El monto a pagar por volar en sentido contrario es el mismo.
 
 Estudiantes: Gabriela Banezca, Pedro Barrios
+
 Temas: grafos, búsqueda por anchura, algoritmo dijkstra.
